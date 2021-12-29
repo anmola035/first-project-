@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ángel Molina</h1>
-<h3 align="center">A passionate Python and Knime developer from Spain</h3>
+<h3 align="center">A passionate Python, Knime and PowerBi developer from Spain</h3>
 
 - 👨‍💻 All of my projects are available at [https://github.com/anmola035](https://github.com/anmola035)
 
